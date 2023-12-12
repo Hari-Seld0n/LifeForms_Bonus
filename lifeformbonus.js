@@ -2,7 +2,7 @@
 // @name         LifeForm Bonus
 // @namespace    http://tampermonkey.net/
 // @version      2023-12-11
-// @description  try to take over the world!
+// @description  add shortcut button for lifeform menu
 // @author       Hari Seldon
 // @match        https://*.ogame.gameforge.com/game/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gameforge.com
